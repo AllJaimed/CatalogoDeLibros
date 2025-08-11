@@ -1,7 +1,10 @@
 # 📚 Catálogo de Libros - API Gutendex
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 Este proyecto implementa un catálogo de libros que utiliza la API de **Gutendex** para permitir a los usuarios buscar títulos y almacenarlos en una base de datos.  
 Una vez guardados, los usuarios pueden realizar diferentes tipos de consultas sobre la información registrada, como filtrado, búsqueda por autor, idioma y más.
+
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-TERMINADO-green)
 
 ## 🚀 Características
 - Búsqueda de libros en tiempo real usando la API de Gutendex.
